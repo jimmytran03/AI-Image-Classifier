@@ -6,9 +6,6 @@ pip install streamlit tensorflow opencv-python Pillow
 streamlit run main.py
 
 ## 🔍 Example Output
-
-Uploaded Image:
-
 ![Image](Example.png)
 ![Dog](Example1.png)
 

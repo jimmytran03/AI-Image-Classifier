@@ -10,6 +10,5 @@ streamlit run main.py
 Uploaded Image:
 
 ![Image](Example.png)
-
 ![Dog](Example1.png)
 
